@@ -59,17 +59,17 @@
     <Reference Include="System.Web.Services" />
     <Reference Include="System.EnterpriseServices" />
     <Reference Include="System.Xml.Linq" />
-    <Reference Include="TXDocumentServer, Version=33.0.1900.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
+    <Reference Include="TXDocumentServer, Version=34.0.2000.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 33.0.NET Server for ASP.NET\Assembly\TXDocumentServer.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 34.0.NET Server for ASP.NET\Assembly\TXDocumentServer.dll</HintPath>
     </Reference>
-    <Reference Include="TXTextControl, Version=33.0.2600.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
+    <Reference Include="TXTextControl, Version=34.0.2700.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 33.0.NET Server for ASP.NET\Assembly\TXTextControl.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 34.0.NET Server for ASP.NET\Assembly\TXTextControl.dll</HintPath>
     </Reference>
-    <Reference Include="TXTextControl.Server, Version=33.0.1800.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
+    <Reference Include="TXTextControl.Server, Version=34.0.1900.500, Culture=neutral, PublicKeyToken=6b83fe9a75cfb638, processorArchitecture=MSIL">
       <SpecificVersion>False</SpecificVersion>
-      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 33.0.NET Server for ASP.NET\Assembly\TXTextControl.Server.dll</HintPath>
+      <HintPath>..\..\..\..\..\Program Files\Text Control GmbH\TX Text Control 34.0.NET Server for ASP.NET\Assembly\TXTextControl.Server.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
